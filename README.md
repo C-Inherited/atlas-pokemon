@@ -2,6 +2,8 @@
 
 Welcome to Atlas-Pokémon! Here you can find a lot of info about first-gen pokémon, and even create your own team!!
 
+You can access here: https://atlas-poke.herokuapp.com/
+
 ![pokedex-1](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.03.07.png?raw=true)
 
 
@@ -17,6 +19,7 @@ By clicking the "+" sign in the bottom-right corner, you can create a new traine
 
 ![list-trainers](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.06.24.png?raw=true)
 ![add-trainers](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.03.41.png?raw=true)
+
 If you click on the image of a trainer, it's details will appear on the top of the page, so you can check them whenever you want ^^
 
 ![image-trainer-details](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.07.13.png?raw=true)
@@ -26,12 +29,15 @@ If you click on the image of a trainer, it's details will appear on the top of t
 Here you can check the details from the pokémon of a specific team. The only thing you have to do is
 1. Select a trainer from the selector on the top
 2. Click on a trainer's pokémon :D
+
 ![details-team](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.08.31.png?raw=true)
+
 ![teams](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.07.42.png?raw=true)
 
 Also, if the team size is less than 7, you can add a pokémon. Click on the card, write a name and voilà! 
 
 ![add-pokemon](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.07.52.png?raw=true)
+
 ![details](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.08.17.png?raw=true)
 
 \* Remember: we only allow first-gen pokèmon
