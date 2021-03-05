@@ -55,7 +55,7 @@ A full list of first-gen pokèmon. Click on any of the pictures and details will
 
 Was the first gen 150 or are we missing one? 
 
-\* Additional notes: due to some problems in the original api (PokeApi), some pokèmon can be missing when trying to find them by Id. This can cause them to not appear on the pokèdex. During the development of this project, we found that pokèmon 27 and 110 were missing.
+\* Additional notes: due to some problems in the original api (PokeApi), some pokèmon can be missing when trying to find them by Id. This can cause them to not appear on the pokèdex.
 
 
 ## Back
