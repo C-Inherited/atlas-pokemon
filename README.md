@@ -14,13 +14,13 @@ https://atlas-poke.herokuapp.com/
 
 In our webpage, you will find a navigation bar at the top, where you can access to three sections: trainers, teams, and pokedex. Let's talk more in depth about them!
 
-![image-general-trainer](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.06.40.png?raw=true)
+![image-general-trainer](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.38.13.png?raw=true)
 
 ### Trainers
 
 By clicking the "+" sign in the bottom-right corner, you can create a new trainer. You can choose its name, age, hobby and even a photo, from a wide range of gifs we have selected for you (yayyy!!!)
 
-![list-trainers](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.06.24.png?raw=true)
+![list-trainers](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.35.28.png?raw=true)
 ![add-trainers](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.03.41.png?raw=true)
 
 If you click on the image of a trainer, it's details will appear on the top of the page, so you can check them whenever you want ^^
@@ -48,10 +48,12 @@ Also, if the team size is less than 7, you can add a pokémon. Click on the card
 
 ### Pokedex
 
-A full list of first-gen pokèmon!! yayyyy!! Click on any of the pictures and details will be shown :D
-Will you be able to find the hidden pokemon? :P
+A full list of first-gen pokèmon. Click on any of the pictures and details will be shown :D
 
 ![pokedex-2](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.09.29.png?raw=true)
+![pokedex-3](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.35.16.png?raw=true)
+
+Was the first gen 150 or are we missing one? 
 
 \* Additional notes: due to some problems in the original api (PokeApi), some pokèmon can be missing when trying to find them by Id. This can cause them to not appear on the pokèdex. During the development of this project, we found that pokèmon 27 and 110 were missing.
 
