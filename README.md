@@ -2,7 +2,10 @@
 
 Welcome to Atlas-Pokémon! Here you can find a lot of info about first-gen pokémon, and even create your own team!!
 
-You can access here: https://atlas-poke.herokuapp.com/
+You can access here: 
+```ruby 
+https://atlas-poke.herokuapp.com/
+```
 
 ![pokedex-1](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.03.07.png?raw=true)
 
@@ -57,7 +60,10 @@ Will you be able to find the hidden pokemon? :P
 
 The proyect have swagger, when you turn on the server you can see all endpoints in this URL:
 
+```ruby 
 http://localhost:8080/swagger-ui.html#
+```
+
 
 ## List of our endpoints that u need to know 
 
