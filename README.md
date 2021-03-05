@@ -7,6 +7,10 @@ You can access here:
 https://atlas-poke.herokuapp.com/
 ```
 
+git repos here:
+- https://github.com/C-Inherited/atlas-pokemon-front
+- https://github.com/C-Inherited/atlas-pokemon-back
+
 ![pokedex-1](https://github.com/C-Inherited/atlas-pokemon/blob/main/Images%20Pokemon%20Atlas/Captura%20de%20pantalla%202021-03-05%20a%20las%2014.03.07.png?raw=true)
 
 
